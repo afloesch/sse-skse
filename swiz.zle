@@ -1,6 +1,6 @@
 description: Script injector.
 files:
-  - filename: skse64_2_00_20.7z
+  - name: skse64_2_00_20.7z
     source: skse64_2_00_20
 game:
   executable: SkyrimSE.exe
