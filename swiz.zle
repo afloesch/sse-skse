@@ -1,0 +1,11 @@
+description: Script injector.
+files:
+  - filename: skse64_2_00_20.7z
+    source: skse64_2_00_20
+game:
+  executable: SkyrimSE.exe
+  version: "<=v1.5.97"
+name: SKSE
+ages:
+  esrb: E
+license: private
